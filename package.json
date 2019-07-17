@@ -1,0 +1,20 @@
+{
+  "name": "@mmathias/vue-module-routes",
+  "version": "1.0.4",
+  "description": "Adds module and error routes to the router",
+  "main": "dist/route-generation.js",
+  "types": "dist/route-generation.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mathias Monstrey",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.6.6",
+    "vue": "^2.6.10",
+    "vue-router": "^3.0.7"
+  },
+  "devDependencies": {
+    "@types/webpack-env": "^1.14.0"
+  }
+}
